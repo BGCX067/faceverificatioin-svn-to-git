@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Connect\bin\Debug\Connect.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Connect\bin\Debug\Connect.pdb
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Connect\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Connect\obj\x86\Debug\Connect.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Connect\obj\x86\Debug\Connect.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Connect\bin\Debug\Connect.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Connect\bin\Debug\Connect.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Connect\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Connect\obj\x86\Debug\Connect.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Connect\obj\x86\Debug\Connect.pdb

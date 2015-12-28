@@ -1,0 +1,51 @@
+package siat.multimedia.algorithm;
+
+import java.io.IOException;
+import java.util.LinkedList;
+import java.util.List;
+import org.opencv.android.Utils;
+import org.opencv.core.Mat;
+import org.opencv.core.Rect;
+import org.opencv.core.Size;
+import siat.multimedia.network.NetworkClient;
+import android.content.Context;
+import android.graphics.Bitmap;
+public class NetworkFaceAlgorithm extends FaceAlgorithmBase {
+	public NetworkFaceAlgorithm(Context context) {
+		super(context);
+		// TODO Auto-generated constructor stub
+	}
+	public Bitmap getBitmap(Mat rgba, Mat gray) {
+		List<Rect> faces = null;
+		if (mCascade != null) {
+			int height = gray.rows();
+			int faceSize = Math.round(height * minFacesize);
+			faces = new LinkedList<Rect>();
+			mCascade.detectMultiScale(gray,faces,1.1, 2, 2,new Size(faceSize, faceSize));
+
+			// for (Rect r : faces)
+			// Core.rectangle(rgba, r.tl(), r.br(), new Scalar(0, 255, 0, 255),
+			// 1);
+		}
+
+		Bitmap bmp = Bitmap.createBitmap(rgba.cols(), rgba.rows(),
+				Bitmap.Config.ARGB_8888);
+
+		if (Utils.matToBitmap(rgba, bmp)) {
+			if (faces.size() > 0) {
+				NetworkClient c = new NetworkClient("172.20.82.23");
+				bmp.compress(Bitmap.CompressFormat.JPEG, 100, c.getBosStreamWriter());
+				try {
+					c.getBosStreamWriter().flush();
+					c.getBosStreamWriter().close();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				return bmp;
+			}
+		}
+		bmp.recycle();
+		return null;
+	}
+}

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabeling tools\bin\Debug\FaceLabeling tools.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabeling tools\bin\Debug\FaceLabeling tools.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabeling tools\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabeling tools\obj\x86\Debug\FaceLabeling tools.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabeling tools\obj\x86\Debug\FaceLabeling tools.pdb

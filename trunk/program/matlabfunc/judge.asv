@@ -1,0 +1,11 @@
+function y=judge(address)
+fid=fopen(address,'r');
+syms data;
+data=fscanf(fid,'%f');
+for index1=0:1:199
+    min=data[index1*7+index2]
+    for index2=0:1:6
+        
+    end
+end
+end

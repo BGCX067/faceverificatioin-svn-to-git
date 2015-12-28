@@ -1,0 +1,13 @@
+ackage siat.multimedia.network;
+import android.graphics.Bitmap;
+public class DataSender implements Runnable{
+	private Bitmap localbitmap;
+	public DataSender(Bitmap bitmap)
+	{
+		localbitmap=bitmap;
+	}
+	public void run() {
+		// TODO Auto-generated method stub
+		
+	}	
+}

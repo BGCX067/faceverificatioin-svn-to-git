@@ -1,0 +1,40 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\PCterminal.Properties.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\bin\Debug\PCterminal.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\bin\Debug\PCterminal.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\PCterminal.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\PCterminal.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\PCterminal.MainForm.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\PCterminal\PCterminal\obj\x86\Debug\PCterminal.ServerInfoForm.resources
+C:\PCterminal\PCterminal\obj\x86\Debug\PCterminal.exe
+C:\PCterminal\PCterminal\obj\x86\Debug\PCterminal.pdb
+C:\PCterminal\PCterminal\bin\Debug\PCterminal.exe
+C:\PCterminal\PCterminal\bin\Debug\PCterminal.pdb
+C:\PCterminal\PCterminal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\PCterminal\PCterminal\obj\x86\Debug\PCterminal.MainForm.resources
+C:\PCterminal\PCterminal\obj\x86\Debug\PCterminal.ServerInfoForm.resources
+C:\PCterminal\PCterminal\obj\x86\Debug\PCterminal.Properties.Resources.resources
+C:\PCterminal\PCterminal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\PCterminal\PCterminal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.pdb
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\bin\Debug\PCterminal.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\bin\Debug\PCterminal.pdb
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.MainForm.resources
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.ServerInfoForm.resources
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\bin\Debug\PCterminal.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\bin\Debug\PCterminal.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.MainForm.resources
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.ServerInfoForm.resources
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\PCterminal.Properties.Resources.resources
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\faceverificatioin\program\gaozheyuan.pcterminal\PCterminal\obj\x86\Debug\GenerateResource.write.1.tlog

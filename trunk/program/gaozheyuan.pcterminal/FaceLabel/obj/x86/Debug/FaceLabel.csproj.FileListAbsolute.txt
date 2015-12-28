@@ -1,0 +1,22 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.Form1.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.Properties.Resources.resources
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\bin\Debug\FaceLabel.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\bin\Debug\FaceLabel.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.pdb
+C:\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.exe
+C:\PCterminal\FaceLabel\obj\x86\Debug\FaceLabel.pdb
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\bin\Debug\FaceLabel.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\bin\Debug\FaceLabel.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.Form1.resources
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.Properties.Resources.resources
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\FaceLabel\obj\x86\Debug\FaceLabel.pdb

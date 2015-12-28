@@ -1,0 +1,12 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\PCterminal\Console\bin\Debug\Console.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\PCterminal\Console\bin\Debug\Console.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\PCterminal\Console\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\PCterminal\Console\obj\x86\Debug\Console.exe
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\PCterminal\Console\obj\x86\Debug\Console.pdb
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Console\obj\x86\Debug\Console.exe
+C:\Documents and Settings\Administrator\桌面\gaozheyuan.pcterminal\Console\obj\x86\Debug\Console.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Console\bin\Debug\Console.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Console\bin\Debug\Console.pdb
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Console\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Console\obj\x86\Debug\Console.exe
+E:\faceverificatioin\program\gaozheyuan.pcterminal\Console\obj\x86\Debug\Console.pdb

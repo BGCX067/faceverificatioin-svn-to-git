@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+E:\faceverificatioin\program\AndroidTerminal\.metadata\.plugins\org.eclipse.jdt.core
+1643156022.index
+941836583.index
+1941071562.index
+2939007297.index
+2990631003.index
+1304670452.index

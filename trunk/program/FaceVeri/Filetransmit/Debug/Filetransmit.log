@@ -1,0 +1,37 @@
+﻿生成启动时间为 2012-5-7 14:24:40。
+     1>项目“D:\FaceVeri\Filetransmit\Filetransmit.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Filetransmit.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D FILETRANSMIT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Filetransmit.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D FILETRANSMIT_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /D _ATL_STATIC_REGISTRY /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Filetransmit.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Filetransmit.cpp
+         Filetransmit.cpp
+       ResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0409" /nologo /fo"Debug\Filetransmit.res" Filetransmit.rc 
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Filetransmit.dll.embed.manifest.res" Debug\Filetransmit_manifest.rc 
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FaceVeri\Debug\Filetransmit.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Filetransmit.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\FaceVeri\Debug\Filetransmit.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FaceVeri\Debug\Filetransmit.lib" /MACHINE:X86 /DLL Debug\Filetransmit.res
+         Debug\Filetransmit.dll.embed.manifest.res
+         Debug\Filetransmit.obj
+         Debug\stdafx.obj
+            正在创建库 D:\FaceVeri\Debug\Filetransmit.lib 和对象 D:\FaceVeri\Debug\Filetransmit.exp
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Filetransmit.dll.embed.manifest" /manifest Debug\Filetransmit.dll.intermediate.manifest "d:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Filetransmit.dll.embed.manifest.res" Debug\Filetransmit_manifest.rc 
+       LinkEmbedManifest:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\FaceVeri\Debug\Filetransmit.dll" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Filetransmit.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\FaceVeri\Debug\Filetransmit.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\FaceVeri\Debug\Filetransmit.lib" /MACHINE:X86 /DLL Debug\Filetransmit.res
+         Debug\Filetransmit.dll.embed.manifest.res
+         Debug\Filetransmit.obj
+         Debug\stdafx.obj
+            正在创建库 D:\FaceVeri\Debug\Filetransmit.lib 和对象 D:\FaceVeri\Debug\Filetransmit.exp
+         Filetransmit.vcxproj -> D:\FaceVeri\Debug\Filetransmit.dll
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Filetransmit.unsuccessfulbuild”。
+         正在对“Debug\Filetransmit.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\FaceVeri\Filetransmit\Filetransmit.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:12.57
